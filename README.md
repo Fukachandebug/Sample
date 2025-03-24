@@ -1,4 +1,17 @@
-# Hi there 👋
+# Hi, I'm Fuka 👋
 
-I'm Fuka. I am passionate about data-driven decision-making and currently learning data analysis and programming.
-I want to share what I learn, so let's study together!
+I am passionate about data-driven decision-making and currently developing data analysis and programming skills.
+It is intriguing for me to uncover insights behind data through statistical analysis.
+I want to share my knowledge from self-study, so let's study together!
+
+## Skills 🌟
+- **Programming**: Python, R, SQL, Excel VBA
+- **Machine Learning**: Logistic regression model, Factor Analysis, Generalized Propensity score, multiple correspondence analysis, linear programming, clustring.
+
+##Projects 👩‍💻
+
+### [TV Ad Placement Strategy Optimization] (https://www.is.nri.co.jp/contest/2021/report.html)
+- Marketing Analysis Competition hosted by Nomura Research Institute
+
+## Connect with me 🌍
+- [LinkedIn] ()
