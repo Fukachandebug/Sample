@@ -11,7 +11,7 @@ I want to share my projects and knowledge from self-study.
 - Excel VBA
 
 ### 📚 Projects
-Welcome to my portfolio, where I showcase my projects.
+Welcome to my portfolio, where I showcase my [projects](https://github.com/Fukachandebug/Portfolio-Guide.git).
 
 ### 🌍 Connect with me
 - [LinkedIn](www.linkedin.com/in/fuka-yamano)
