@@ -11,5 +11,5 @@ I want to share my projects and knowledge from self-study.
 ### 📚 Projects
 Welcome to my portfolio, where I showcase my projects.
 
-### 🌍Connect with me
+### 🌍 Connect with me
 - [LinkedIn](www.linkedin.com/in/fuka-yamano)
