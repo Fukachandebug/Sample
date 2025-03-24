@@ -1,7 +1,5 @@
 ## 👋 Introducing Myself
-
-https://github.com/user-attachments/assets/32f7947d-11e6-4817-b5eb-419428db0263
-
+![Image](https://github.com/user-attachments/assets/d2ff145a-0756-467b-9cf8-62b51f76343a)
 
 I am passionate about data-driven decision-making and currently developing data analysis and programming skills.
 It is intriguing for me to uncover insights behind data through statistical analysis.
