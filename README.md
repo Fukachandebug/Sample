@@ -10,6 +10,9 @@ I want to share my projects and knowledge from self-study.
 - SQL
 - Excel VBA
 
+### 📊 Data Visualization
+- PowerBI
+  
 ### 📚 Projects
 Welcome to my portfolio, where I showcase my [projects](https://github.com/Fukachandebug/Portfolio-Guide.git).
 
