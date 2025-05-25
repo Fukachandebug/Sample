@@ -1,14 +1,18 @@
 ## 👋 Hi, I'm Fuka
 ![Image](https://github.com/user-attachments/assets/d2ff145a-0756-467b-9cf8-62b51f76343a)
 
-I am passionate about data-driven decision-making and currently developing data analysis skills in Canada.
+🎓 Bachelor Degree in Data Science
+👩‍💻 Former System Engineer & Project Leader in IT company
+🔥 Passionate about data-driven decision-making
+✏ Developing data analysis skill
+🍔 Fun fact: Eating like a horse & Learning something new
 
-### 👩‍💻 Programming
+### 👩‍💻 Programming Skill
 - Python
 - SQL
 - Excel VBA
 
-### 📊 Data Visualization
+### 📊 Data Visualization skill
 - PowerBI
   
 ### 📚 Projects
