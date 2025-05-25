@@ -21,4 +21,4 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/Fukac
 - [LinkedIn](www.linkedin.com/in/fuka-yamano)
 
 ### :accessibility: Activity Status
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fukachandebug&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fukachandebug&theme=vue)
