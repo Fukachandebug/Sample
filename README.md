@@ -1,10 +1,10 @@
 ## 👋 Hi, I'm Fuka
 ![Image](https://github.com/user-attachments/assets/d2ff145a-0756-467b-9cf8-62b51f76343a)
 
-🎓 Bachelor Degree in Data Science/
-👩‍💻 Former System Engineer & Project Leader in IT company
-🔥 Passionate about data-driven decision-making
-✏ Developing data analysis skill
+🎓 Bachelor Degree in Data Science  
+👩‍💻 Former System Engineer & Project Leader in IT company  
+🔥 Passionate about data-driven decision-making   
+✏ Developing data analysis skill  
 🍔 Fun fact: Eating like a horse & Learning something new
 
 ### 👩‍💻 Programming Skill
