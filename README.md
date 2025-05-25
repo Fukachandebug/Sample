@@ -21,8 +21,4 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/Fukac
 - [LinkedIn](www.linkedin.com/in/fuka-yamano)
 
 ### :accessibility: Activity Status
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fukachandebug)](https://github.com/fukachandebug/github-readme-stats)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fukachandebug&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fukachandebug&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fukachandebug&theme=github)
