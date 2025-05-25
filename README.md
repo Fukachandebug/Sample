@@ -20,4 +20,4 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/Fukac
 - [LinkedIn](www.linkedin.com/in/fuka-yamano)
 
 ### Activity Status
-[![typograssy](https://typograssy.deno.dev/api?text=Hello%20world!)](https://github.com/kawarimidoll/typograssy)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fukachandebug)](https://github.com/fukachandebug/github-readme-stats)
