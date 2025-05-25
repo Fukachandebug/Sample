@@ -18,3 +18,6 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/Fukac
 
 ### 🌍 Connect with me
 - [LinkedIn](www.linkedin.com/in/fuka-yamano)
+
+### Activity Status
+[![typograssy](https://typograssy.deno.dev/api?text=Hello%20world!)](https://github.com/kawarimidoll/typograssy)
