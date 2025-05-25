@@ -8,7 +8,8 @@ I am passionate about data-driven decision-making and currently developing data 
 - SQL
 - Excel VBA
 
-[![My Skills](https://skillicons.dev/icons?i=python,SQL,Power BI)](https://skillicons.dev)
+<a href="https://github.com/{Fukachandebug}" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+
 
 ### 📊 Data Visualization
 - PowerBI
@@ -19,5 +20,5 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/Fukac
 ### 🌍 Connect with me
 - [LinkedIn](www.linkedin.com/in/fuka-yamano)
 
-### Activity Status
+### :accessibility: Activity Status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fukachandebug)](https://github.com/fukachandebug/github-readme-stats)
