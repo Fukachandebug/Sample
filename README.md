@@ -8,9 +8,6 @@ I am passionate about data-driven decision-making and currently developing data 
 - SQL
 - Excel VBA
 
-<a href="https://github.com/{Fukachandebug}" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-
-
 ### 📊 Data Visualization
 - PowerBI
   
