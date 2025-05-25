@@ -21,4 +21,3 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/Fukac
 
 ### Activity Status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fukachandebug)](https://github.com/fukachandebug/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fukachandebug&show_icons=true&theme=radical)
