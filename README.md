@@ -8,7 +8,7 @@ I am passionate about data-driven decision-making and currently developing data 
 - SQL
 - Excel VBA
 
-[![My Skills](https://skillicons.dev/icons?i=js,python,SQL)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,SQL,Power BI)](https://skillicons.dev)
 
 ### 📊 Data Visualization
 - PowerBI
