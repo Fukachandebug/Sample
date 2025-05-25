@@ -22,3 +22,4 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/Fukac
 - [LinkedIn](www.linkedin.com/in/fuka-yamano)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fukachandebug&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fukachandebug&theme=github)
