@@ -8,10 +8,10 @@ I am passionate about data-driven decision-making and currently developing data 
 - SQL
 - Excel VBA
 
+[![My Skills](https://skillicons.dev/icons?i=js,python,SQL)](https://skillicons.dev)
+
 ### 📊 Data Visualization
 - PowerBI
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
   
 ### 📚 Projects
 Welcome to my portfolio, where I showcase my [projects](https://github.com/Fukachandebug/Portfolio-Guide.git).
